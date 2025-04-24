@@ -25,6 +25,7 @@ A multi-page Streamlit application, inspired by the Fallout Pip-Boy interface, d
 2.  **Install dependencies:**
     
     ```bash
+    ./setup.sh
     pip install -r requirements.txt
     ```
 
