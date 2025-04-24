@@ -5,7 +5,7 @@ import os
 import datetime
 
 # Set the directory where the CSV files are located
-csv_directory = '/home/tpl/Projects/DigitalPowerMeter/csv'
+csv_directory = '../csv'
 
 # Get a list of all CSV files in the directory
 csv_files = [f for f in os.listdir(csv_directory) if f.endswith('.csv')]
